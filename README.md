@@ -1,5 +1,5 @@
 # SynSymPred
-# SYNSIMPRED: Synthetic Lethality Prediction
+# SYNSIMPRED: Leveraging Cell Line Similarities for Drug Combination Synergy Prediction
 
 ## Overview
 
