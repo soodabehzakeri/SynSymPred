@@ -1,4 +1,4 @@
-# SynSymPred
+
 # SYNSIMPRED: Leveraging Cell Line Similarities for Drug Combination Synergy Prediction
 
 ## Overview
